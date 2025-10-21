@@ -1,0 +1,44 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1759152227742,
+    "title": "Favoritos del dispositivo",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1761068923527,
+        "title": "marcadores",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1761068180967,
+            "title": "camisas 3d",
+            "icon": "https://logo.clearbit.com/www.owayo.es",
+            "url": "https://www.owayo.es/konfigurator_html/index.php?v=6&sport=ciclismo&product=camisetas_mtb&lang=es&land=es&design=derny#"
+          },
+          {
+            "type": "link",
+            "addDate": 1761068211330,
+            "title": "paletas de colores",
+            "icon": "https://logo.clearbit.com/colorhunt.co",
+            "url": "https://colorhunt.co/"
+          },
+          {
+            "type": "link",
+            "addDate": 1761068984751,
+            "title": "Freepik | La suite creativa de IA más completa",
+            "icon": "https://logo.clearbit.com/www.freepik.es",
+            "url": "https://www.freepik.es/"
+          },
+          {
+            "type": "link",
+            "addDate": 1761068996452,
+            "title": "canva.com",
+            "icon": "https://logo.clearbit.com/www.canva.com",
+            "url": "https://www.canva.com/templates"
+          }
+        ]
+      }
+    ]
+  }
+]
